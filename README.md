@@ -1,4 +1,4 @@
-# controller-of-Bladeless-fan---based-on-MSP430
+# controller of Bladeless fan---based on MSP430
 Based on MSP430F5438.
 
 爱班《电子系统设计》课程大作业
